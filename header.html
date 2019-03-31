@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>header</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <link href="font-awesome.min.css" rel="stylesheet">
+    <link href="custom.css" rel="stylesheet">
+</head>
+
+<body>
+<!--Create main navigation -->
+<div class="container-fluid bg-header container-fluid-remove-padding">
+    <nav class="fixed-top navbar navbar-expand-lg navbar-dark " id="nav">
+        <a class="navbar-brand font-calligraffitti" href="#">Taniti</a>
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
+                class="navbar-toggler"
+                data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto mr-auto">
+                <li class="nav-item" id="main-nav-home-link">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown" id="main-nav-learn-link">
+                    <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle"
+                       data-toggle="dropdown"
+                       href="#" id="navbarDropdown1" role="button">
+                        Learn
+                    </a>
+                    <div aria-labelledby="navbarDropdown1" class="dropdown-menu">
+                        <a class="dropdown-item" href="#">History</a>
+                        <a class="dropdown-item" href="#">Geography and Climate</a>
+                        <a class="dropdown-item" href="#">Government</a>
+                        <a class="dropdown-item" href="#">Frequently Asked Questions</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown" id="main-nav-explore-link">
+                    <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle"
+                       data-toggle="dropdown"
+                       href="#" id="navbarDropdown2" role="button">
+                        Explore
+                    </a>
+                    <div aria-labelledby="navbarDropdown2" class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Travel</a>
+                        <a class="dropdown-item" href="#">Lodging</a>
+                        <a class="dropdown-item" href="#">Transportation</a>
+                        <a class="dropdown-item" href="#">Entertainment</a>
+                        <a class="dropdown-item" href="#">Dining</a>
+                        <a class="dropdown-item" href="#">Sightseeing</a>
+                    </div>
+                </li>
+                <li class="nav-item" id="main-nav-contact-link">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+            <form class="form-inline" target="_self">
+                <div class="input-group ml-auto mr-auto">
+                    <input class="form-control" placeholder="Search this site" type="text">
+                    <div class="input-group-append">
+                        <button class="btn btn-secondary search-icon-background" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </nav>
+</div>
+</body>
+
+</html>

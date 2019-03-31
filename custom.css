@@ -1,0 +1,290 @@
+/* ==========================================================================
+   Global CSS
+   ========================================================================== */
+
+/*Add Padding top to bootstrap column defaults */
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto
+{
+    padding-top: 15px;
+}
+
+/*Fonts*/
+@font-face
+{
+    font-family: 'calligraffittiregular';
+    src: url('calligraffitti-regular.woff2') format('woff2'),
+    url('calligraffitti-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-calligraffitti
+{
+    font-family: calligraffittiregular, serif;
+}
+
+@font-face
+{
+    font-family: 'asulbold';
+    src: url('asul-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-asulbold
+{
+    font-family: asulbold, serif;
+}
+
+/*Remove border and shadow effects from text and textarea inputs*/
+input[type="text"], input[type="email"],  textarea
+{
+    outline: none;
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+}
+
+/*Remove padding from container fluid*/
+.container-fluid-remove-padding
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/*Set styles for main background image headings*/
+.main-background-image-heading
+{
+    position: absolute;
+    top: 25%;
+    background-color: #5BA11D;
+    color: #ffffff;
+}
+
+/* ==========================================================================
+   Header CSS
+   ========================================================================== */
+@media (max-width: 992px)
+{
+    nav.navbar
+    {
+        background: #60bae3;
+    }
+}
+
+/*Header Background*/
+.bg-header
+{
+    background-color: #60bae3;
+}
+
+.navbar-brand
+{
+    font-size: 36px;
+}
+
+.navbar-nav
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+.search-icon-background
+{
+    background-color: #f8dda1;
+    color: #000000;
+}
+
+/* ==========================================================================
+   Footer CSS
+   ========================================================================== */
+
+.bg-footer
+{
+    background-color: #0097a4;
+}
+
+.bg-footer-addition-information
+{
+    background-color: #006972;
+}
+
+.overflow-hidden
+{
+    overflow: hidden;
+}
+
+/* ==========================================================================
+   Index CSS
+   ========================================================================== */
+
+
+.carousel-fade .carousel-inner .carousel-item
+{
+    -webkit-transition-property: opacity;
+    transition-property: opacity;
+}
+
+.carousel-fade .carousel-inner .active.carousel-item-left, .carousel-fade .carousel-inner .active.carousel-item-right, .carousel-fade .carousel-inner .carousel-item
+{
+    opacity: 0;
+}
+
+.carousel-fade .carousel-inner .active, .carousel-fade .carousel-inner .carousel-item-next.carousel-item-left, .carousel-fade .carousel-inner .carousel-item-prev.carousel-item-right
+{
+    opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.carousel-item-left, .carousel-fade .carousel-inner .active.carousel-item-right, .carousel-fade .carousel-inner .carousel-item-next, .carousel-fade .carousel-inner .carousel-item-prev
+{
+    left: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.bg-learn-section
+{
+    background-color: #007999;
+}
+
+.overlay
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #5BA11D;
+}
+
+
+.card:hover .overlay
+{
+    opacity: .75;
+}
+
+.card:hover .card-title
+{
+    opacity: 0;
+}
+
+.card-title
+{
+    position: absolute;
+    left: 0;
+    padding: 0 10px 5px 10px;
+    background-color: #5BA11D;
+    color: #ffffff;
+}
+
+@media (max-width: 330px)
+{
+    .card-text
+    {
+        font-size: .75rem;
+    }
+}
+
+.bg-explore-section
+{
+    background-color: #C2FEFF;
+}
+
+/* ==========================================================================
+   Learn CSS
+   ========================================================================== */
+
+.bg-history-section
+{
+    background-color: #BFA37E;
+}
+
+.bg-geography-and-climate-section
+{
+    background-color: #D1E2A9;
+}
+
+.bg-government-section
+{
+    background-color: #D8D0B9;
+}
+
+.white-space-normal
+{
+    white-space: normal;
+}
+
+.word-wrap-break-word
+{
+    word-wrap: break-word;
+}
+
+/* ==========================================================================
+   Explore CSS
+   ========================================================================== */
+
+
+.bg-travel-section
+{
+    background-color: #A2C9DA;
+}
+
+
+.bg-lodging-section
+{
+    background-color: #FFFFFF;
+}
+
+.bg-transportation-section
+{
+    background-color: #F8DDA1;
+}
+
+
+.bg-entertainment-section
+{
+    background-color: #007999;
+}
+
+.bg-dining-section
+{
+    background-color: #FFFFFF;
+}
+
+.bg-sightseeing-section
+{
+    background-color: #D8D0B9;
+}
+
+/* ==========================================================================
+   Explore CSS
+   ========================================================================== */
+
+.bg-contact-information
+{
+    background-color: #f2ead3;
+}
+
+.bg-contact-form-section
+{
+    background-color: #A7DD98;
+}
+
+.bg-contact-form
+{
+    background-color: #007999;
+}
+.bg-contact-form-submit-button
+{
+    background-color: #F8DDA1;
+}
+
+.contact-form-box-shadow
+{
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
