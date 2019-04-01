@@ -16,7 +16,7 @@ $(document).ready(function ()
 
     setTimeout(removeFixedNavBar, 1000);
 
-    setTimeout(fixAnchorLinks,500);
+    setTimeout(fixAnchorLinks, 500);
 });
 
 
