@@ -90,9 +90,22 @@ function removeFixedNavBar()
 //Fixes problem with incorrect position of anchor links
 function fixAnchorLinks()
 {
+
     $('html,body').animate({
         scrollTop: $(window.location.hash).offset().top
     });
+
+    /*
+    //Without scroll animation may be a little "choppy"
+    if ( window.location.hash ) {
+         var hash = window.location.hash,
+             $hash = $(hash);
+
+         $hash.removeAttr('id');
+         $hash.before('<div id="'+hash.slice(1)+'" class="hashlink"></div>');
+         window.location.hash = hash;
+     }*/
+
 }
 
 
