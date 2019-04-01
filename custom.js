@@ -16,6 +16,7 @@ $(document).ready(function ()
 
     setTimeout(removeFixedNavBar, 1000);
 
+    setTimeout(fixAnchorLinks,500);
 });
 
 
@@ -84,8 +85,18 @@ function removeFixedNavBar()
             $('nav').addClass("fixed-top");
         }
     });
-
 }
+
+//Fixes problem with incorrect position of anchor links
+function fixAnchorLinks()
+{
+    $('html,body').animate({
+        scrollTop: $(window.location.hash).offset().top
+    });
+}
+
+
+
 
 
 
