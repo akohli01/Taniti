@@ -91,9 +91,12 @@ function removeFixedNavBar()
 function fixAnchorLinks()
 {
 
-    $('html,body').animate({
-        scrollTop: $(window.location.hash).offset().top
-    });
+    if ( window.location.hash )
+    {
+        $('html,body').animate({
+            scrollTop: $(window.location.hash).offset().top
+        });
+    }
 
     /*
     //Without scroll animation may be a little "choppy"
