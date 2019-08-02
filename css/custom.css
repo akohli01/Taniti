@@ -12,8 +12,8 @@
 @font-face
 {
     font-family: 'calligraffittiregular';
-    src: url('calligraffitti-regular.woff2') format('woff2'),
-    url('calligraffitti-regular.woff') format('woff');
+    src: url('../font/calligraffitti-regular.woff2') format('woff2'),
+    url('../font/calligraffitti-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,7 +26,7 @@
 @font-face
 {
     font-family: 'asulbold';
-    src: url('asul-bold.woff') format('woff');
+    src: url('../font/asul-bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

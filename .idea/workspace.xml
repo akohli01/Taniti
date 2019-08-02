@@ -4,11 +4,69 @@
     <bookmark url="file://$PROJECT_DIR$/header.html" line="50" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6119ee2d-070e-411c-970a-036158ae6b89" name="Default Changelist" comment="">
+    <list default="true" id="6119ee2d-070e-411c-970a-036158ae6b89" name="Default Changelist" comment="Organized files into appropriate directories.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/FAQ.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/font/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asul-bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/asul-bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-social.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calligraffitti-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/calligraffitti-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calligraffitti-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/font/calligraffitti-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact-us.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dining.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/dining.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entertainment.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/entertainment.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-dining-cuisine-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-dining-cuisine-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-dining-cuisine-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-dining-cuisine-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-dining-seafood-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-dining-seafood-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-dining-seafood-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-dining-seafood-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-entertainment-club.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-entertainment-club.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-entertainment-museum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-entertainment-museum.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-entertainment-sport.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-entertainment-sport.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-entertainment-theater.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-entertainment-theater.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-lodging-bed-and-breakfast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-lodging-bed-and-breakfast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-lodging-hostel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-lodging-hostel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-lodging-hotel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-lodging-hotel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-sightseeing-beach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-sightseeing-beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-sightseeing-rainforest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-sightseeing-rainforest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-sightseeing-volcano.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-sightseeing-volcano.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-taniti.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-taniti.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-transportation-bus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-transportation-bus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-transportation-rental.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-transportation-rental.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-transportation-walk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-transportation-walk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-travel-cruise.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-travel-cruise.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore-travel-plane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/explore-travel-plane.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore.html" beforeDir="false" afterPath="$PROJECT_DIR$/explore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geography.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/geography.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/government.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/government.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/history.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-about-taniti.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/learn-about-taniti.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-geography-and-climate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/learn-geography-and-climate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-government.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/learn-government.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-history.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/learn-history.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lodging.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/lodging.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathyas-kurmann-102977-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mathyas-kurmann-102977-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sightseeing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/sightseeing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taniti-homepage-image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/taniti-homepage-image-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taniti-homepage-image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/taniti-homepage-image-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transportation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/transportation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/travel.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,64 +78,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1525">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="193">
               <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/font/fontawesome-webfont.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/footer.html">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="100" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+            <state relative-caret-position="225">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -134,7 +152,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -146,6 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,26 +177,28 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554205804101" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data Structures and Algorithms Deep Dive" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564771131521" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Libraries\Projects\Web\taniti website 2.0\js" />
+      <recent name="E:\Libraries\Projects\Web\taniti website 2.0\css" />
+      <recent name="E:\Libraries\Projects\Web\taniti website 2.0\font" />
+      <recent name="E:\Libraries\Projects\Web\taniti website 2.0\img" />
       <recent name="D:\Projects\taniti website 2.0" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\taniti website 2.0" />
     </key>
   </component>
@@ -215,24 +237,27 @@
       <workItem from="1554137877203" duration="239000" />
       <workItem from="1554140819753" duration="1701000" />
       <workItem from="1554148252137" duration="32000" />
-      <workItem from="1554203478518" duration="2302000" />
+      <workItem from="1554203478518" duration="2912000" />
+      <workItem from="1554208017059" duration="257000" />
+      <workItem from="1564770670568" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124057000" />
+    <option name="totallyTimeSpent" value="125472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-6" y="-6" width="1932" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -290,17 +315,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Organized files into appropriate directories." />
+    <option name="LAST_COMMIT_MESSAGE" value="Organized files into appropriate directories." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/taniti website 2.0.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html" />
-    <entry file="file://$PROJECT_DIR$/ionicons.min.css">
+    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fontawesome.min.css" />
     <entry file="file://$PROJECT_DIR$/font-awesome.css" />
-    <entry file="file://$PROJECT_DIR$/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="30720" selection-start-column="30720" selection-end-column="30720" />
@@ -308,10 +340,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header2.0.html" />
-    <entry file="file://$PROJECT_DIR$/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="22116" selection-start-line="5" selection-start-column="22107" selection-end-line="5" selection-end-column="22116" />
@@ -321,14 +353,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="5" column="6492" selection-start-line="5" selection-start-column="6477" selection-end-line="5" selection-end-column="6492" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.jpg">
+    <entry file="file://$PROJECT_DIR$/img/contact-us.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
@@ -338,10 +370,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom.css">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1525">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -355,35 +401,27 @@
     <entry file="file://$PROJECT_DIR$/learn.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="193">
           <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/font/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="225">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
         </state>
       </provider>
     </entry>
