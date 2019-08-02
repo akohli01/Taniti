@@ -1,3 +1,6 @@
 Taniti Tourist Website. 
 
-Source files need to be organized into their appropriate folders.
+A tourist website that advertises the fictional island of Taniti.
+
+Website is created using the web trifecta technologies in accordance with good user 
+experience principles.
