@@ -1,22 +1,22 @@
-#Taniti Tourist Website.
+# Taniti Tourist Website.
 
 A tourist website that advertises the fictional island of Taniti. This website uses proper
 user experience principles to in order provide a satisfactory user experience. 
 
-###Technologies Used
+### Technologies Used
 
 - HTML
 - CSS
 - Javascript
 - Bootstrap
 
-###Getting Started
+### Getting Started
 
 1. Fork repository
 2. Extract to desired location 
 3. Open index.html
 
-###Project Breakdown
+### Project Breakdown
 
 .idea - contains Intellij IDEA configuration  
 css - contains stylesheets  
@@ -32,7 +32,7 @@ header.html - contains brand name, main navigation, and a search bar
 index.html - contains an overview of this island  
 learn.html - contains information about history, geography and climate, government, and 
 frequently asked questions 
-README.MD - contains information about this project
+README.MD - contains information about this project  
 taniti website.iml - contains Intellij IDEA information   
  
 
