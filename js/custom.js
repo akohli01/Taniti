@@ -1,26 +1,14 @@
 /*****Global JS*****/
 
-$(document).ready(function ()
+//Import Header and Footer content
+$("#header").load("header.html", function ()
 {
-    //Import header.html
-    $("#header").load("header.html");
-
-    //import footer.html
-    $("#footer").load("footer.html");
-
-    changeNavbarColorOnScroll();
-
     changeActiveNavLink();
-
-    setTimeout(changeActiveNavLink, 1000);
-
-    setTimeout(removeFixedNavBar, 1000);
-
-    setTimeout(fixAnchorLinks, 500);
 });
 
+$("#footer").load("footer.html");
 
-/*****Header JS*****/
+
 function changeActiveNavLink()
 {
     var path = window.location.pathname;
@@ -43,39 +31,8 @@ function changeActiveNavLink()
     }
 }
 
-//Change navbar color when scrolling
-function changeNavbarColorOnScroll()
-{
-    $(window).scroll(function ()
-    {
-        var scroll = $(window).scrollTop();
-        var windowWidth = $(window).width();
-        if (scroll > 50)
-        {
-            $("#nav").css("background", "#60bae3");
-        } else if (scroll < 50 && windowWidth < 992)
-        {
 
-            $("#nav").css("background", "#60bae3");
-        } else
-        {
-            $("#nav").css("background", "transparent");
-        }
-
-    });
-}
-
-//Remove fixed navbar on devices with screen sizes less than 700px
-function removeFixedNavBar()
-{
-    var windowWidth = $(window).width();
-    if (windowWidth <= 700)
-    {
-        $('nav').removeClass("fixed-top");
-    }
-
-    $(window).resize(function ()
-    {
+$(document).ready(function () {
         var windowWidth = $(window).width();
         if (windowWidth <= 700)
         {
@@ -84,32 +41,8 @@ function removeFixedNavBar()
         {
             $('nav').addClass("fixed-top");
         }
-    });
-}
+});
 
-//Fixes problem with incorrect position of anchor links
-function fixAnchorLinks()
-{
-
-    if ( window.location.hash )
-    {
-        $('html,body').animate({
-            scrollTop: $(window.location.hash).offset().top
-        });
-    }
-
-    /*
-    //Without scroll animation may be a little "choppy"
-    if ( window.location.hash ) {
-         var hash = window.location.hash,
-             $hash = $(hash);
-
-         $hash.removeAttr('id');
-         $hash.before('<div id="'+hash.slice(1)+'" class="hashlink"></div>');
-         window.location.hash = hash;
-     }*/
-
-}
 
 
 
