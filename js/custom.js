@@ -1,21 +1,18 @@
 /*****Global JS*****/
 
 //Import Header and Footer content
-$("#header").load("header.html", function ()
-{
+$("#header").load("header.html", function () {
     changeActiveNavLink();
 });
 
 $("#footer").load("footer.html");
 
 
-function changeActiveNavLink()
-{
+function changeActiveNavLink() {
     var path = window.location.pathname;
     var page = path.split("/").pop();
 
-    switch (page)
-    {
+    switch (page) {
         case "index.html":
             $("#main-nav-home-link").addClass("active");
             break;
@@ -33,14 +30,12 @@ function changeActiveNavLink()
 
 
 $(document).ready(function () {
-        var windowWidth = $(window).width();
-        if (windowWidth <= 700)
-        {
-            $('nav').removeClass("fixed-top");
-        } else
-        {
-            $('nav').addClass("fixed-top");
-        }
+    var windowWidth = $(window).width();
+    if (windowWidth <= 700) {
+        $('nav').removeClass("fixed-top");
+    } else {
+        $('nav').addClass("fixed-top");
+    }
 });
 
 
